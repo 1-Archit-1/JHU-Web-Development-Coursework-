@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+#xx{
+    background-color: cornflowerblue;
+}
+#xx p{
+    padding:5px;
+    height: 100px;
+    clear: both;
+}
+#sh{
+    float:right;
+    text-align: center;
+    color:red;
+    font-size: larger;    
+    background-color: black;
+    padding: 5px;
+}
+
