@@ -1,4 +1,4 @@
-# css-test
+# Solution links
 
 Project done for a web development course on Coursera
 
